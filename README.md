@@ -1,4 +1,4 @@
-# MedNurex
+The world best medicine app made by Ak sharma# MedNurex
 A medicine sales e-commerce
 
 |Find | value |
